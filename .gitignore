@@ -1,0 +1,19 @@
+.gradle
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# ビルドで自動生成されるフォルダ
+/build
+/app/build
+
+# 生成されるAPKファイル
+*.apk
+
+# PC固有の設定ファイル
+local.properties
+
+# Android Studio (IntelliJ) の設定ファイル
+.idea/
+*.iml
