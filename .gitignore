@@ -17,3 +17,6 @@ local.properties
 # Android Studio (IntelliJ) の設定ファイル
 .idea/
 *.iml
+
+# Kotlinのコンパイルキャッシュ
+.kotlin/
